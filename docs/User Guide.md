@@ -6,9 +6,10 @@ line.
 ## Quick start
 1. Ensure you have at least Java 15 or any newer version installed on your computer. You can download it 
 from [here](https://www.oracle.com/sg/java/technologies/downloads/archive/)
-2. In file explorer open the folder containing the file `bankaccount.jar` and `bankaccount.bat`. They should be in the
+2. Download `bankaccount.jar` and `bankaccount.bat` from the latest release on this Github repository.
+3. In file explorer open the folder containing the file `bankaccount.jar` and `bankaccount.bat`. They should be in the
 same folder. If not, move them to the same folder.
-3. Double-click the bankaccount.bat file to open the app
+4. Double-click the bankaccount.bat file to open the app
 
 Alternatively, if you are familiar with the command line, you can open a terminal at the folder containing 
 `bankaccount.jar` and use the command `java -jar bankaccount.jar` to run the application. `bankaccount.bat` is
